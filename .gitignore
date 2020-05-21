@@ -1,0 +1,4 @@
+node_modules
+mocha
+wallet
+package-lock.json
